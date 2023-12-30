@@ -1,4 +1,4 @@
-beattop
+**beattop**
 #### Video Demo :
 #### Description 
 My project addresses the issue of people needing to visit multiple places to find statistics or information, such as discovering the top 10 movies, games, or other related rankings. 
@@ -40,6 +40,7 @@ script.js and script1.js: JavaScript logic for movie.html and tv.html functional
 **Technologies/APIs Used**
 
 >>The Movie Database (TMDB) API: Powering movie and TV show information retrieval.
+
 >>NewsAPI (Initially attempted): Provided insights into technology-related news (albeit with limitations).
 
 **Future Scope**
