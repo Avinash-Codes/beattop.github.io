@@ -9,7 +9,7 @@ Similarly, gamers might search different platforms to find the best-selling game
 
 i have combine all these things in one site 
 it contains 10 files(6 html,2 css, 2 javascript)
-**Features**
+**Features**🧑‍💻
 index.html: The main landing page offering comprehensive content, including subpages for detailed information on the top 10 movies of all time. Users can explore movies by genre, powered by The Movie Database (TMDB) API.
 
 movie.html: A section dedicated to movies, enabling users to browse movies across different genres with interactive functionalities.
@@ -37,11 +37,11 @@ styles.css and styles1.css: CSS for styling movie.html and tv.html.
 
 script.js and script1.js: JavaScript logic for movie.html and tv.html functionalities.
 
-**Technologies/APIs Used**
+**Technologies/APIs Used** ⚙️
 
->>The Movie Database (TMDB) API: Powering movie and TV show information retrieval.
+The Movie Database (TMDB) API: Powering movie and TV show information retrieval.
 
->>NewsAPI (Initially attempted): Provided insights into technology-related news (albeit with limitations).
+NewsAPI (Initially attempted): Provided insights into technology-related news (albeit with limitations).
 
 **Future Scope**
 Enhance the news section by exploring alternative APIs or solutions.
