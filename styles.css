@@ -264,3 +264,30 @@ footer{
 #follow{
     color: black;
 }
+
+.upcomming{
+    text-align: center;
+}
+@media (max-width: 1000px){
+    
+    #tags{
+        width: 100%;
+    }
+
+    header nav ul li a {
+        color: pink;
+        font-size: 3.7vw;
+     }
+
+     .social-icons{
+        text-align: center;
+     }
+
+     .social-icons li{
+        display: inline-block;
+        margin: 0 10px;
+     }
+     .social-icons .bi {
+        font-size: 22px;
+     }
+}

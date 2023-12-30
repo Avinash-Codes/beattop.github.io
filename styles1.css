@@ -188,3 +188,12 @@ footer{
     margin: 0 12px;
     padding:7px 0;
 }
+
+@media (max-width: 1000px){
+    
+
+    header nav ul li a {
+        color: pink;
+        font-size: 3.7vw;
+     }
+}
