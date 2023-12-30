@@ -69,16 +69,16 @@ main{
     color:pink;
 }
 
-.movie li {
+.movies li {
     padding: 10px;
 }
 
 /* Hover Effect*/
-.movie li{
+.movies li{
     transition: 0.5s;
 }
 
-.movie li:hover{
+.movies li:hover{
     color:red;
     text-decoration: underline;
     transform: scale(1.7);
@@ -91,6 +91,59 @@ main{
     }
 }
 
+/* Movie.html */
+/* Creating filter */
+
+#tags{
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 10px auto;
+}
+
+.tag{
+    background-color:rgb(255, 174, 0);
+    font-family:'Poppins','Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 50px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.tag.highlight{
+    background-color: green;
+}
+
+/* Adding Pages */
+.addPage{
+    font-family: 'Poppins','Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    color: green;
+}
+
+.page{
+    padding:20px;
+    cursor: pointer;
+}
+
+.page.disabled{
+    cursor: not-allowed;
+    color: grey;
+}
+
+.currentpage{
+    padding: 15px 35px;
+    border-radius: 50%;
+    margin: 10px;
+    border: 5px solid orange;
+    font-size: 20px;
+}
 #template-news{
     display: flex;
     flex-wrap: wrap;
@@ -107,7 +160,7 @@ main{
     background-color: #333;
     transition: 0.5s;
     justify-content: space-between;
-    cursor: pointer;
+    
     
 }
 
@@ -166,12 +219,21 @@ main{
     
 }
 
+/* Movie.html */
 
+/* putting footer at end */
 
-
-
+html{
+    height:100%;
+}
+body{
+    display:flex;
+    flex-direction:column;
+    height:100%;
+}
 
 footer{
+    margin-top:auto;
     background-color: #333;
     color: #fff;
     text-align: center;
@@ -186,4 +248,19 @@ footer{
     display: inline;
     margin: 0 12px;
     padding:7px 0;
+}
+
+.cred a{
+    color :black;
+}
+
+.hi{
+    color: #333;
+    font-family: 'Poppins','Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    
+}
+
+#follow{
+    color: black;
 }
