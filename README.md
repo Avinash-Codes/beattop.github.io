@@ -49,7 +49,7 @@ Implement additional features for an enhanced user experience.
 Continuously update content and functionalities based on user feedback and evolving technologies.
 
 THE END
-(i enjoyed a lot in moves this )
+(I really enjoyed working on this project )
 Thanku so much David malan 🙏 and all CS50 teachers it was my pleasure to learn form you all
 
 This is Avinash Sharma Form INDIA
