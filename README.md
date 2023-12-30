@@ -1,4 +1,4 @@
-# ** beattop **
+beattop
 #### Video Demo :
 #### Description 
 My project addresses the issue of people needing to visit multiple places to find statistics or information, such as discovering the top 10 movies, games, or other related rankings. 
