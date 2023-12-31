@@ -48,6 +48,9 @@ Enhance the news section by exploring alternative APIs or solutions.
 Implement additional features for an enhanced user experience.
 Continuously update content and functionalities based on user feedback and evolving technologies.
 
+🎯 My Goal:
+To enhance accessibility and convenience by consolidating diverse information sources, making data retrieval simpler and quicker.
+
 THE END
 (I really enjoyed working on this project )
 Thanku so much David malan 🙏 and all CS50 teachers it was my pleasure to learn form you all
